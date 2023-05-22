@@ -7,6 +7,6 @@
 Подробности работы описаны в файле "Documentation.pdf". <br> </a>
 <h1 align="center">Небольшая презентация работоспособности</a> <br>
 
-![Planer](/main/Presentation/Logisim_main_iz_proekt2_2023-05-17_20-26-03_1.gif)
-![Nastya config](/main/Presentation/Logisim_main_iz_proekt2_2023-05-18_18-49-00.gif)
+![Planer](/Presentation/Logisim_main_iz_proekt2_2023-05-17_20-26-03_1.gif)
+![Nastya config](/Presentation/Logisim_main_iz_proekt2_2023-05-18_18-49-00.gif)
 
