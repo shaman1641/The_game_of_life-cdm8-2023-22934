@@ -1,2 +1,9 @@
-# The_game_of_life-cdm8-2023-22934
-The project on digital platforms for the year 2023 of NSU students.
+<h1 align="center">The game of life</a> 
+Это проект студентов 1 курса ИИР НГУ, созданный в качестве итогового проекта по дисциплине цифровые платформы. 
+В проекте используется логический эмулятор "Logisim" и микропроцессор CDM-8. 
+Файлы для запуска расположегны в дериктории "Project_files".
+В директории "Source_code" лежит исходный код для компиляции на CDM-8 с помошью CocoIDE и уже откомпилированный образ для загрузки в пзу.
+Подробности работы описаны в файле "Documentation.pdf". 
+<h1 align="center">Небольшая презентация работоспособности</a> 
+<video height="40px" preload="auto" loop autoplay src="\Presentation\Logisim_main_iz_proekt2_2023-05-17_20-26-03_1.gif"></video>
+<video height="40px" preload="auto" loop autoplay src="\Presentation\Logisim_main_iz_proekt2_2023-05-18_18-49-00.gif"></video>
